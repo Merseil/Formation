@@ -1,0 +1,45 @@
+
+
+body
+{
+    background-image: url('Couleur grise.png');
+}
+
+
+img
+{
+    float: right ;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px black;
+}
+
+
+
+h1, h2
+{
+    font-family: 'droid_sansregular', 'Arial', sans-serif;
+}
+
+h1, h1 + p 
+{
+    text-align: center;
+}
+
+img
+{
+    float: right;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px black;
+}
+
+h2
+{
+    color: #6E4A46;
+}
+
+h3
+{
+    text-align: center;
+    font-family: 'droid_sansregular', 'Arial', sans-serif;
+     color: #6E4A46;
+}
